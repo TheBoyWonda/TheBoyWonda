@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on FinTech and Web3 projects
-- 📫 How to reach me  LinkedIn https://ng.linkedin.com/in/owen-mere-615b91261/no?trk=public_post_comment_actor-image
+- 📫 How to reach me  LinkedIn https://ng.linkedin.com/in/owen-mere-615b91261?trk=public_post_feed-actor-name
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wanna learn coding because it scares me
 
